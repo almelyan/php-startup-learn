@@ -9,7 +9,7 @@ you can use this project for explore coding, strucure files and got ideas
 feel free to edit, write create new features and build yours
 after finish learing we recommend using modern technologies MVC frameworks
 for build fast powerful and lightwidth websites or web-application project
-as [https://laravel.com/](Laravel) or [https://codeigniter.com/](CodeIgniter) or [https://cakephp.org/](CakePHP) and so on
+as [Laravel](https://laravel.com/) or [CodeIgniter](https://codeigniter.com/) or [CakePHP](https://cakephp.org/) and so on
 note you can rebuild this project by MVC after finish learing to improve your skills
 
 ### Goals of Project
